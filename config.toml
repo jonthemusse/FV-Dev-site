@@ -1,6 +1,5 @@
 baseURL = "fv-dev.netlify.com"
-relativeurls = "true"
-languageCode = "en-us"git 
+languageCode = "en-us"
 theme = "ananke"
 title = "Development and documentation site for FV"
 
