@@ -1,4 +1,4 @@
-baseURL = "fv-dev.netlify.com"
+baseURL = "https://fv-dev.netlify.com/"
 languageCode = "en-us"
 theme = "ananke"
 title = "Development and documentation site for FV"
