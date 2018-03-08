@@ -1,7 +1,8 @@
 ---
-title: "End of Project Report ELY"
-date: 2018-03-07T22:51:48+02:00
-draft: true
+title: End of Project Report ELYl
+date: 2018-03-07T20:51:48.000Z
+thumbnail: /images/uploads/wp_20180207_13_59_58_pro.png
+rating: '1'
 ---
 # Hankesuunitelman kuvallinen tekstiliite
 
